@@ -79,6 +79,8 @@ Retrieve a specific incident by ID.
     "reported_at": "2025-04-25T18:00:00Z"
   }
   ```
+![GET Request Demo](./images/getR.png)
+
 
 ### **4. DELETE `/api/incident/:id`**
 Delete a specific incident by ID.
@@ -89,7 +91,11 @@ Delete a specific incident by ID.
 
 ![DELETE Request Demo](./images/delete.png)
 
+## Again Accessing the same 
+![DELETE Request Demo](./images/getM.png)
+
 ---
+
 
 ## **Setup Instructions**
 
